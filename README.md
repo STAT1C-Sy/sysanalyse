@@ -7,7 +7,7 @@ Themen:
 
 Inhalt des Repositorys:
 * Präsentation zu den Themen und unserem Miro Board
-* 
+* Anleitung zum Aufsetzen einer CI/CD Pipeline für das Projekt in moderne Programmierkonzepte
 
 Unsere Gruppenmitglieder:
 * Florian Hase (9444910)
